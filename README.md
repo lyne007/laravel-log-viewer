@@ -2,15 +2,8 @@
 
 # Dcat Laravel Log Viewer
 
-<p>
-    <a href="https://github.com/jqhph/laravel-log-viewer/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-7389D8.svg?style=flat" ></a>
-     <a href="https://styleci.io/repos/215738797">
-        <img src="https://github.styleci.io/repos/215738797/shield" alt="StyleCI">
-    </a>
-    <a href="https://github.com/jqhph/laravel-log-viewer/releases" ><img src="https://img.shields.io/github/release/jqhph/laravel-log-viewer.svg?color=4099DE" /></a> 
-</p>
 
-`Dcat Log Viewer`是一个`Laravel`日志查看工具，支持大文件日志的查看和搜索功能，更改自[laravel-admin-extensions/log-viewer](https://github.com/laravel-admin-extensions/log-viewer)。
+`Dcat Log Viewer`是一个`Laravel`日志查看工具，支持大文件日志的查看和搜索功能，更改自[laravel-admin-extensions/log-viewer](https://github.com/laravel-admin-extensions/log-viewer) 、[jqhph/laravel-log-viewer](https://github.com/jqhph/laravel-log-viewer)。
 
 </div>
 
@@ -26,6 +19,8 @@
 - [x] 支持分页
 - [x] 支持手机页面
 
+## 修改
+> CND无法国内无法访问问题
 
 ## 环境
 
@@ -36,7 +31,7 @@
 ## 安装
 
 ```bash
-composer require dcat/laravel-log-viewer
+composer require lyne007/dcat-log-viewer
 ```
 
 发布配置文件，此步骤可省略
