@@ -1,5 +1,5 @@
 {
-  "name": "dcat/laravel-log-viewer",
+  "name": "dcat2/laravel-log-viewer",
   "description": "Laravel Log Viewer",
   "type": "library",
   "keywords": ["laravel", "log viewer"],
