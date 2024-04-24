@@ -318,6 +318,7 @@
                             @if ($nextUrl)
                                 <a href="{{ $nextUrl }}" class="btn btn-default btn-sm">Next <i class="fa fa-chevron-right"></i></a>
                             @endif
+                            <a href="{{ env('APP_URL') }}/admin" class="btn btn-default btn-sm">Next <i class="fa fa-chevron-right"></i></a>
                         </div>
                         <!-- /.btn-group -->
                     </div>
