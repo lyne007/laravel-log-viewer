@@ -3,12 +3,12 @@
   "description": "Laravel Log Viewer",
   "type": "library",
   "keywords": ["laravel", "log viewer"],
-  "homepage": "https://github.com/jqhph/laravel-log-viewer",
+  "homepage": "https://github.com/lyne007/dcat-log-viewer",
   "license": "MIT",
   "authors": [
     {
-      "name": "jqh",
-      "email": "841324345@qq.com"
+      "name": "lyne007",
+      "email": "lyne007@163.com"
     }
   ],
   "require": {
